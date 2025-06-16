@@ -41,7 +41,7 @@ function NavBar({ onAddContentClick }) {
     <div className="flex items-center justify-between px-6 py-4 bg-white">
       {/* Left side - Title with responsive padding */}
       <div className="flex items-center">
-        <h2 className="text-lg font-medium text-gray-900">Dashboard</h2>
+        <h2 className="text-lg font-medium text-gray-900">All Notes</h2>
       </div>
 
       {/* Right side - Action buttons */}
